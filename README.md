@@ -36,4 +36,5 @@ Although I haven't been able to yet apply my hardware knowledge because of no ac
 
 I haven't yet worked on a real drone project but am eager to learn.
 
-By the end of today, I would have opened a PR in Ardupilot's github repo fixing their install script, which I found problems with yesterday.
+~By the end of today, I would have opened a PR in Ardupilot's github repo fixing their install script, which I found problems with yesterday.~
+(Somehow I used up old version of the script and was planning on adding support for ubuntu noble, but its already there)
